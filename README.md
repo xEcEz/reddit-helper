@@ -10,7 +10,8 @@ It uses the official Reddit API to fetch recent posts and comments and helps sur
 
 ## Subreddits (initially)
 - r/ArcRaiders  
-- r/EldenRing  
+- r/EldenRing
+- r/Nightreign  
 - r/DragonsDogma2  
 
 ## Status
